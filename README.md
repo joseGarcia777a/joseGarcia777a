@@ -1,0 +1,15 @@
+- 👋 Hello, I'm José Garcia
+- 👀 I'm interested in coding, technology and open source projects.
+- 🌱 I'm currently learning full stack java web development and improving my skills.
+- 💞️ I look to collaborate on projects that can use my skills and gain experience and solve real-world problems.
+- 📫 How to contact me: You can contact me at jose_garcia_s_junior@icloud.com.
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I'm a big fan of video games, guitar and movies.
+
+- 👋 Olá, sou José Garcia
+- 👀 Tenho interesse em codificação, tecnologia e projetos de código aberto.
+- 🌱 Atualmente estou aprendendo desenvolvimento web full stack java e aprimorando minhas.
+- 💞️ Procuro colaborar em projetos que possa usar minhas abilidades e adiquirir experiencia e resolver problemas do mundo real.
+- 📫 Como entrar em contato comigo: Você pode entrar em contato comigo pelo e-mail jose_garcia_s_junior@icloud.com.
+- 😄 Pronomes: Ele/ele.
+- ⚡ Curiosidade: sou um grande fã de video games, guitarra e filmes.
